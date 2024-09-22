@@ -5,7 +5,7 @@ export const contactsData = {
     github: 'https://github.com/shaeniR',
     facebook: 'https://web.facebook.com/upekha.shaeni',
     linkedIn: 'https://www.linkedin.com/in/shaeni-rasnayaka-8563b8295/',
-    instagram: 'https://www.instagram.com/upekhashaeni/',
+    twitter: 'https://www.instagram.com/upekhashaeni/',
     stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
     devUsername: "said7388"
 }

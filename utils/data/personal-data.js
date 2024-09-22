@@ -7,11 +7,11 @@ export const personalData = {
   phone: '+8801608797655',
   address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
   github: 'https://github.com/shaeniR',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
+  facebook: 'https://web.facebook.com/upekha.shaeni',
+  linkedIn: 'https://www.linkedin.com/in/shaeni-rasnayaka-8563b8295/',
+   twitter: 'https://twitter.com/said7388',
+   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+  leetcode : "https://www.hackerrank.com/profile/shaeni_HM",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1-Ic_5KNTx72en7jlzTOQijWiyTJi32uK/view?usp=sharing"
 }
