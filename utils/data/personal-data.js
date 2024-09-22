@@ -1,6 +1,6 @@
 export const personalData = {
   name: "SHAENI RASNAYAKA",
-  profile: '/profile.png',
+  profile: '/a.png',
   designation: "IT UNDERGRADUATE",
   description: "My name is Shaeni Rasnayaka.I am an enthusiastic IT undergraduate\n" +
       "at the University of Moratuwa. Also I\n" +

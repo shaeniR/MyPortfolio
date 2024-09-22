@@ -6,7 +6,7 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'LIBRARY MANAGEMENT SYSTEM',
+        name: 'Library Management System',
         description: 'A full-stack application consisting of both a web and mobile app, accessible to admins and patrons.I contributed to the project by implementing the notification system, which includes features for adding announcements, notifying users about new books handling reservations and overdue notices, and sending push notifications using Firebase.',
         tools: ['React', 'Tailwind CSS', 'React', 'Flutter', 'MSSQL','ASP.NET', 'Firebase'],
         //role: 'Backend Developer',
@@ -16,7 +16,7 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'E-COMMERCE FRONT-END DEVELOPMENT',
+        name: 'E-CommerceE Front-End Development',
         description: 'Currently developing the front end of an e-commerce website using React. Working on features like product listings, search, and responsive design to enhance my skills in front-end development and React.',
         tools: ['React', 'Tailwind CSS'],
         //role: 'Full Stack Developer',
@@ -26,7 +26,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: 'AUTOMATED PRAWN FARMING MANAGEMENT SYSTEM',
+        name: ' Automated Prawn Farming Managment System',
         description: 'Arduino project that allows to automate the prawn farm. It automates the full process of changing the water, spreading the medicine for the prawns and harvesting the prawns.',
         tools: ['Arduino', 'PH Sensor', 'Nema17', 'DC Motor', 'Water Level Sensors', 'Ultrasonic sensors'],
         code: '',
